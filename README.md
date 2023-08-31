@@ -1,40 +1,40 @@
-#&nbsp;Senac
-Aulas&nbsp;Senac
+# Senac
+Aulas Senac
 
 <div><br>
 ╔═══════════════════════════════════════════════════════════════════════════════════════╗<br>
-‖&nbsp;&nbsp;Caro&nbsp;aluno&nbsp;(&nbsp;ou&nbsp;curioso&nbsp;),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;os&nbsp;códigos&nbsp;que&nbsp;se&nbsp;encontram&nbsp;neste&nbsp;repositório&nbsp;são&nbsp;os&nbsp;desenvolvidos&nbsp;em&nbsp;sala&nbsp;de&nbsp;aula&nbsp;e&nbsp;‖<br>
-‖&nbsp;&nbsp;estão&nbsp;nomeados&nbsp;de&nbsp;acordo&nbsp;com&nbsp;o&nbsp;número&nbsp;aula&nbsp;em&nbsp;que&nbsp;foram&nbsp;mencionados.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;Esses&nbsp;códigos&nbsp;deverão&nbsp;ser&nbsp;utilizados&nbsp;para&nbsp;verificação&nbsp;posterior&nbsp;e/ou&nbsp;estudo&nbsp;fora&nbsp;de&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;sala&nbsp;de&nbsp;aula.&nbsp;Estes&nbsp;códigos&nbsp;seguem&nbsp;a&nbsp;seguinte&nbsp;regra:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Estão&nbsp;contidos&nbsp;em&nbsp;numa&nbsp;pasta&nbsp;de&nbsp;nome&nbsp;correspondente&nbsp;à&nbsp;aula&nbsp;trabalhada,&nbsp;e&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Se&nbsp;códigos&nbsp;iniciais&nbsp;(&nbsp;pequenos,&nbsp;com&nbsp;poucas&nbsp;linhas&nbsp;),&nbsp;pertencem&nbsp;ao&nbsp;mesmo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arquivo&nbsp;com&nbsp;comentários&nbsp;os&nbsp;separando.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Se&nbsp;mais&nbsp;de&nbsp;um&nbsp;código&nbsp;com&nbsp;teor&nbsp;maior,&nbsp;ou&nbsp;que&nbsp;envolvam&nbsp;mais&nbsp;de&nbsp;um&nbsp;arquivo&nbsp;a&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ser&nbsp;trabalhado,&nbsp;cada&nbsp;um&nbsp;terá&nbsp;sua&nbsp;própria&nbsp;pasta&nbsp;nomeada&nbsp;de&nbsp;acordo&nbsp;com&nbsp;o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;projeto&nbsp;trabalhado.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Todos&nbsp;eles&nbsp;possuem&nbsp;comentários&nbsp;de&nbsp;acordo&nbsp;com&nbsp;o&nbsp;conteúdo&nbsp;ministrado.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Em&nbsp;caso&nbsp;de&nbsp;conteúdo&nbsp;que&nbsp;não&nbsp;se&nbsp;foi&nbsp;falado&nbsp;em&nbsp;sala&nbsp;de&nbsp;aula,&nbsp;mas&nbsp;de&nbsp;teor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obrigatório&nbsp;para&nbsp;estudo&nbsp;(&nbsp;como&nbsp;tabelas&nbsp;de&nbsp;manipulação&nbsp;),&nbsp;este&nbsp;encontrar-se-a&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;em&nbsp;forma&nbsp;de&nbsp;comentário,&nbsp;juntamente&nbsp;com&nbsp;um&nbsp;link&nbsp;para&nbsp;a&nbsp;tabela&nbsp;completa.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;No&nbsp;final&nbsp;de&nbsp;cada&nbsp;projeto&nbsp;existe&nbsp;a&nbsp;bibliografia&nbsp;com&nbsp;as&nbsp;fontes&nbsp;em&nbsp;que&nbsp;foram&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;utilizadas&nbsp;para&nbsp;o&nbsp;material.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;Existe&nbsp;também&nbsp;um&nbsp;repositório&nbsp;para&nbsp;alguns&nbsp;dos&nbsp;materiais/apostilas&nbsp;que&nbsp;a&nbsp;professora&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;utilizou,&nbsp;ao&nbsp;utilizar&nbsp;estes,&nbsp;atente-se&nbsp;a:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Alguns&nbsp;podem&nbsp;estar&nbsp;desatualizados.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Podem&nbsp;estar&nbsp;em&nbsp;inglês.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Podem&nbsp;ter&nbsp;muita&nbsp;informação&nbsp;ou&nbsp;termos&nbsp;técnicos&nbsp;não&nbsp;falados.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🢖&nbsp;Estar&nbsp;acima&nbsp;do&nbsp;nível&nbsp;trabalho.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;Verifiquem&nbsp;a&nbsp;bibliografia&nbsp;correta&nbsp;de&nbsp;cada&nbsp;código&nbsp;para&nbsp;ter&nbsp;certeza&nbsp;de&nbsp;qual&nbsp;conteúdo&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;específico&nbsp;foi&nbsp;falado&nbsp;em&nbsp;sala&nbsp;de&nbsp;aula.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;Bons&nbsp;estudos!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
-‖&nbsp;&nbsp;Prof.&nbsp;Carol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>
+    Caro aluno ( ou curioso ),                                                             <br>
+    os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e   <br>
+    estão nomeados de acordo com o número aula em que foram mencionados.                   <br>
+    Esses códigos deverão ser utilizados para verificação posterior e/ou estudo fora de    <br>
+    sala de aula. Estes códigos seguem a seguinte regra:                                   <br>
+                                                                                           <br>
+       🢖 Estão contidos em numa pasta de nome correspondente à aula trabalhada, e :        <br>
+           - Se códigos iniciais ( pequenos, com poucas linhas ), pertencem ao mesmo       <br>
+             arquivo com comentários os separando.                                         <br>
+           - Se mais de um código com teor maior, ou que envolvam mais de um arquivo a     <br>
+             ser trabalhado, cada um terá sua própria pasta nomeada de acordo com o        <br>
+              projeto trabalhado.                                                          <br>
+       🢖 Todos eles possuem comentários de acordo com o conteúdo ministrado.               <br>
+       🢖 Em caso de conteúdo que não se foi falado em sala de aula, mas de teor            <br>
+         obrigatório para estudo ( como tabelas de manipulação ), este encontrar-se-a      <br>
+         em forma de comentário, juntamente com um link para a tabela completa.            <br>
+       🢖 No final de cada projeto existe a bibliografia com as fontes em que foram         <br>
+         utilizadas para o material.                                                       <br>
+                                                                                           <br>
+    Existe também um repositório para alguns dos materiais/apostilas que a professora      <br>
+    utilizou, ao utilizar estes, atente-se a:                                              <br>
+                                                                                           <br>
+       🢖 Alguns podem estar desatualizados.                                                <br>
+       🢖 Podem estar em inglês.                                                            <br>
+       🢖 Podem ter muita informação ou termos técnicos não falados.                        <br>
+       🢖 Estar acima do nível trabalho.                                                    <br>
+                                                                                           <br>
+    Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo     <br>
+    específico foi falado em sala de aula.                                                 <br>
+                                                                                           <br>
+    Bons estudos!                                                                          <br>
+    Prof. Carol                                                                            <br>
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝<br>
 
 
