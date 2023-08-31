@@ -4,7 +4,7 @@ Aulas Senac
 <div align="center">
     ═════════════════════════════════════════════════════════════════════════════════════════   
     
-Caro aluno ( ou curioso ),                                                              
+<p align="left">Caro aluno ( ou curioso ),                                                              
 os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e 
 estão nomeados de acordo com o número aula em que foram mencionados.                    
 Esses códigos deverão ser utilizados para verificação posterior e/ou estudo fora de     
