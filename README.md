@@ -3,6 +3,7 @@ Aulas Senac
 
 <div align="center"><br>
 ═════════════════════════════════════════════════════════════════════════════════════════  <br>
+<div align="left">
     Caro aluno ( ou curioso ),                                                             <br>
     os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e   <br>
     estão nomeados de acordo com o número aula em que foram mencionados.                   <br>
@@ -35,6 +36,7 @@ Aulas Senac
                                                                                            <br>
     Bons estudos!                                                                          <br>
     Prof. Carol                                                                            <br>
+</div>
 ═══════════════════════════════════════════════════════════════════════════════════════    <br>
 </div>
 
