@@ -23,7 +23,7 @@ sala de aula. Estes códigos seguem a seguinte regra:
        🢖 No final de cada projeto existe a bibliografia com as fontes em que foram          
          utilizadas para o material.    
                                                                                             
-Existe também um repositório para alguns dos materiais/apostilas que a professora       
+<div align="left">Existe também um repositório para alguns dos materiais/apostilas que a professora       
 utilizou, ao utilizar estes, atente-se a:                                               
                                                                                             
        🢖 Alguns podem estar desatualizados.                                                 
@@ -31,7 +31,7 @@ utilizou, ao utilizar estes, atente-se a:
        🢖 Podem ter muita informação ou termos técnicos não falados.                         
        🢖 Estar acima do nível trabalho.                                                     
                                                                                             
-Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo      
+<div align="left">Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo      
 específico foi falado em sala de aula.                                                  
                                                                                             
 Bons estudos!                                                                           
