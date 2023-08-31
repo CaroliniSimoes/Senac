@@ -1,8 +1,8 @@
 # Senac
 Aulas Senac
 
-<div><br>
-╔═══════════════════════════════════════════════════════════════════════════════════════╗<br>
+<div align="center"><br>
+═════════════════════════════════════════════════════════════════════════════════════════  <br>
     Caro aluno ( ou curioso ),                                                             <br>
     os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e   <br>
     estão nomeados de acordo com o número aula em que foram mencionados.                   <br>
@@ -35,8 +35,8 @@ Aulas Senac
                                                                                            <br>
     Bons estudos!                                                                          <br>
     Prof. Carol                                                                            <br>
-╚═══════════════════════════════════════════════════════════════════════════════════════╝<br>
-
+═══════════════════════════════════════════════════════════════════════════════════════    <br>
+</div>
 
 
 
