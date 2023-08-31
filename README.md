@@ -25,7 +25,7 @@ fora de sala de aula. Estes códigos seguem a seguinte regra:
 <div align="left">Existe também um repositório para alguns dos materiais e 
 apostilas que a professora utilizou, ao utilizar estes, atente-se a:
 
-    🢖 Alguns podem estar desatualizados.
+     🢖 Alguns podem estar desatualizados.
      🢖 Podem estar em inglês.
      🢖 Podem ter muita informação ou termos técnicos não falados.
      🢖 Estar acima do nível trabalho.
@@ -33,7 +33,7 @@ apostilas que a professora utilizou, ao utilizar estes, atente-se a:
 <div align="left">Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo
 específico foi falado em sala de aula.
 
-Bons estudos!
+Bons estudos!<br>
 Prof. Carol.
 
 ═════════════════════════════════════════════════════════════════════════   
