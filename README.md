@@ -3,7 +3,7 @@ Aulas Senac
 
 <div align="center"> 
     ═════════════════════════════════════════════════════════════════════════════════════════   
-    <div align="left">
+    
     Caro aluno ( ou curioso ),                                                              
     os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e    
     estão nomeados de acordo com o número aula em que foram mencionados.                    
@@ -21,7 +21,7 @@ Aulas Senac
          obrigatório para estudo ( como tabelas de manipulação ), este encontrar-se-a       
          em forma de comentário, juntamente com um link para a tabela completa.             
        🢖 No final de cada projeto existe a bibliografia com as fontes em que foram          
-         utilizadas para o material.                                                        
+         utilizadas para o material.    
                                                                                             
     Existe também um repositório para alguns dos materiais/apostilas que a professora       
     utilizou, ao utilizar estes, atente-se a:                                               
@@ -36,7 +36,7 @@ Aulas Senac
                                                                                             
     Bons estudos!                                                                           
     Prof. Carol                                                                             
-    </div>
+    
 ═══════════════════════════════════════════════════════════════════════════════════════     
 </div>
 
