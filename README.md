@@ -5,8 +5,7 @@ Aulas Senac
     ═════════════════════════════════════════════════════════════════════════════════════════   
     
     Caro aluno ( ou curioso ),                                                              
-    os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e    
-    estão nomeados de acordo com o número aula em que foram mencionados.                    
+    os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e estão nomeados de acordo com o número aula em que foram mencionados.                    
     Esses códigos deverão ser utilizados para verificação posterior e/ou estudo fora de     
     sala de aula. Estes códigos seguem a seguinte regra:                                    
                                                                                             
@@ -37,7 +36,7 @@ Aulas Senac
     Bons estudos!                                                                           
     Prof. Carol                                                                             
     
-═══════════════════════════════════════════════════════════════════════════════════════     
+═════════════════════════════════════════════════════════════════════════════════════════     
 </div>
 
 
