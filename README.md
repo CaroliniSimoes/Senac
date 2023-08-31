@@ -4,10 +4,11 @@ Aulas Senac
 <div align="center"> 
     ═════════════════════════════════════════════════════════════════════════════════════════   
     
-    Caro aluno ( ou curioso ),                                                              
-    os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e estão nomeados de acordo com o número aula em que foram mencionados.                    
-    Esses códigos deverão ser utilizados para verificação posterior e/ou estudo fora de     
-    sala de aula. Estes códigos seguem a seguinte regra:                                    
+Caro aluno ( ou curioso ),                                                              
+os códigos que se encontram neste repositório são os desenvolvidos em sala de aula e 
+estão nomeados de acordo com o número aula em que foram mencionados.                    
+Esses códigos deverão ser utilizados para verificação posterior e/ou estudo fora de     
+sala de aula. Estes códigos seguem a seguinte regra:                                    
                                                                                             
        🢖 Estão contidos em numa pasta de nome correspondente à aula trabalhada, e :         
            - Se códigos iniciais ( pequenos, com poucas linhas ), pertencem ao mesmo        
@@ -22,19 +23,19 @@ Aulas Senac
        🢖 No final de cada projeto existe a bibliografia com as fontes em que foram          
          utilizadas para o material.    
                                                                                             
-    Existe também um repositório para alguns dos materiais/apostilas que a professora       
-    utilizou, ao utilizar estes, atente-se a:                                               
+Existe também um repositório para alguns dos materiais/apostilas que a professora       
+utilizou, ao utilizar estes, atente-se a:                                               
                                                                                             
        🢖 Alguns podem estar desatualizados.                                                 
        🢖 Podem estar em inglês.                                                             
        🢖 Podem ter muita informação ou termos técnicos não falados.                         
        🢖 Estar acima do nível trabalho.                                                     
                                                                                             
-    Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo      
-    específico foi falado em sala de aula.                                                  
+Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo      
+específico foi falado em sala de aula.                                                  
                                                                                             
-    Bons estudos!                                                                           
-    Prof. Carol                                                                             
+Bons estudos!                                                                           
+Prof. Carol                                                                             
     
 ═════════════════════════════════════════════════════════════════════════════════════════     
 </div>
