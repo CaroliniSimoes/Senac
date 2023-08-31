@@ -6,7 +6,7 @@ Aulas Senac
     
 <div align="left">Caro aluno ( ou curioso ),<br>
 os códigos que se encontram neste repositório são os desenvolvidos em sala de
-aula e estão nomeados de acordo com o <u>número aula</u> em que foram mencionados.
+aula e estão nomeados de acordo com o número aula em que foram mencionados.
 Esses códigos deverão ser utilizados para verificação posterior e/ou estudo
 fora de sala de aula. Estes códigos seguem a seguinte regra:
 
@@ -22,8 +22,8 @@ fora de sala de aula. Estes códigos seguem a seguinte regra:
      🢖 No final de cada projeto existe a bibliografia com as fontes em que foram
        utilizadas para o material.
 
-<div align="left">Existe também um repositório para alguns dos <b>materiais e 
-apostilas</b> que a professora utilizou, ao utilizar estes, atente-se a:
+<div align="left">Existe também um repositório para alguns dos materiais e 
+apostilas que a professora utilizou, ao utilizar estes, atente-se a:
 
      🢖 Alguns podem estar desatualizados.
      🢖 Podem estar em inglês.
