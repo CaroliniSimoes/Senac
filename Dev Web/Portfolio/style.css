@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: url(img/gatito.png) no-repeat right;
+    background-size: 40%;
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+}
+
+span {
+    color: salmon;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.rosto {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.texto-inicial {
+    margin: 10%;
+}
+
+.destaque {
+    font-weight: 100;
+}
+
+.btn {
+    border: 3px;
+    border-style: solid;
+    border-color: salmon;
+    border-radius: 20%;
+    margin: 3px;
+    padding: 5px;
+}
+
+.mgn {
+    margin-top: 10%;
+}
