@@ -31,7 +31,7 @@ apostilas que a professora utilizou, ao utilizar estes, atente-se a:
      🢖 Estar acima do nível trabalho.
                                                                                             
 <div align="left">Verifiquem a bibliografia correta de cada código para ter certeza de qual conteúdo
-específico foi falado em sala de aula.
+específico foi falado em aula.
 
 Bons estudos!<br>
 Prof. Carol.
