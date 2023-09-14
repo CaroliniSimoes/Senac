@@ -1,5 +1,5 @@
 # Senac
-Desenvolvedor Web
+<img align="center" alt="Senac" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/1200px-Senac_logo.svg.png">Desenvolvedor Web
 
 <div align="center">
     ═════════════════════════════════════════════════════════════════════════   
