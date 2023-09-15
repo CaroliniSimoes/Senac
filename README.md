@@ -1,5 +1,5 @@
 <div align="center"><img align="center" height="130" alt="Senac" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/1200px-Senac_logo.svg.png">
-<br>Desenvolvedor Web
+<br>Programação
 
 <div align="center">
     ═════════════════════════════════════════════════════════════════════════   
