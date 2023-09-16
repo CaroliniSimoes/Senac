@@ -24,63 +24,58 @@ Carga horária: 36 horas
 
 <details>
 <summary>Elementos da Competência</summary>
-
-Conhecimentos
-•	Briefing: conceito, especificidades para projetos web e modelos.
-•	Técnicas de criatividade: brainstorming, mapas mentais e painéis semânticos.
-•	Análise de mercado: identificação do perfil do cliente e público-alvo, concorrentes diretos e indiretos.
-•	Domínios de internet: conceito, registro e disponibilidade de serviços.
-•	Projetos web: tendências, tecnologias, gestão de projetos (custos, calendários de tarefas e relatórios de acompanhamento).
-•	Arquitetura da informação: conceito e aplicações, mapa do site e estruturas de navegação, organização de conteúdo.
-•	Proposta comercial: características, requisitos, elaboração e modelos de contrato de serviço.
-•	Análise de requisitos: conceitos e técnicas.
-Habilidades
-•	Interpretar briefing para projetos de websites.
-•	Identificar requisitos técnicos para projetos de websites.
-•	Pesquisar domínio disponível e serviços de hospedagem para websites.
-•	Organizar arquivos e atividades por etapas do projeto.
-•	Estruturar arquitetura dos elementos de conteúdo de websites.
-Atitudes/Valores
-•	Responsabilidade e comprometimento com os acordos estabelecidos.
-•	Proatividade no desenvolvimento das atividades profissionais.
-•	Colaboração no desenvolvimento do trabalho em equipe.
-•	Respeito aos direitos de propriedade intelectual.
-•	Comprometimento com padrões de usabilidade e acessibilidade web.
+<b>Conhecimentos</b><br>
+•	Briefing: conceito, especificidades para projetos web e modelos.<br>
+•	Técnicas de criatividade: brainstorming, mapas mentais e painéis semânticos.<br>
+•	Análise de mercado: identificação do perfil do cliente e público-alvo, concorrentes diretos e indiretos.<br>
+•	Domínios de internet: conceito, registro e disponibilidade de serviços.<br>
+•	Projetos web: tendências, tecnologias, gestão de projetos (custos, calendários de tarefas e relatórios de acompanhamento).<br>
+•	Arquitetura da informação: conceito e aplicações, mapa do site e estruturas de navegação, organização de conteúdo.<br>
+•	Proposta comercial: características, requisitos, elaboração e modelos de contrato de serviço.<br>
+•	Análise de requisitos: conceitos e técnicas.<br>
+<b>Habilidades</b><br>
+•	Interpretar briefing para projetos de websites.<br>
+•	Identificar requisitos técnicos para projetos de websites.<br>
+•	Pesquisar domínio disponível e serviços de hospedagem para websites.<br>
+•	Organizar arquivos e atividades por etapas do projeto.<br>
+•	Estruturar arquitetura dos elementos de conteúdo de websites.<br>
+<b>Atitudes/Valores</b><br>
+•	Responsabilidade e comprometimento com os acordos estabelecidos.<br>
+•	Proatividade no desenvolvimento das atividades profissionais.<br>
+•	Colaboração no desenvolvimento do trabalho em equipe.<br>
+•	Respeito aos direitos de propriedade intelectual.<br>
+•	Comprometimento com padrões de usabilidade e acessibilidade web.<br>
 </details>
 
-> [!NOTE]
-##Referências
-###Bibliográficas:
-SQL
--[SQL All in One](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[SQL for Dummies](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
 
-MySQL
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
+<h2>Referências</h2><br>
+<h3>Bibliográficas:</h3><br>
+SQL<br>
 
-PHP
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)
+-[SQL All in One](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[SQL for Dummies](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
 
-###Externas:
-SQL
--[GitHub Pages](https://aws.amazon.com/what-is/sql/)
--[GitHub Pages](https://www.w3schools.com/sql/sql_intro.asp)
--[GitHub Pages](https://www.techtarget.com/searchdatamanagement/definition/SQL)
--[GitHub Pages](https://pages.github.com/)
+MySQL<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
 
-MySQL
--[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)
--[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)
--[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
--[GitHub Pages](https://pages.github.com/)
+PHP<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+-[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
 
-PHP
--[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)
--[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)
--[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
--[GitHub Pages](https://pages.github.com/)
+<h3>Externas:</h3><br>
+
+MySQL<br>
+-[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)<br>
+-[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)<br>
+-[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)<br>
+-[GitHub Pages](https://pages.github.com/)<br>
+
+PHP<br>
+-[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)<br>
+-[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)<br>
+-[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)<br>
+-[GitHub Pages](https://pages.github.com/)<br>
