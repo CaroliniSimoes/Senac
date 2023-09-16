@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+
+<body>
+    <!----------------------------------------------- Formulário ----------------------------------------------->
+    <form>
+        <div>
+            <h1> Cadastro de Desenvolvedores </h1>
+            <p> Registre suas informações </p>
+        </div>
+
+        <fieldset>
+            <legend> Nome </legend>
+            <label for="pnome"> Primeiro nome </label><br>
+            <input type="text" id="pnome" name="pnome"><br>
+            <label for="unome"> Último nome </label><br>
+            <input type="text" id="unome" name="unome"><br>
+        </fieldset>
+
+        <fieldset>
+            <legend> Raça </legend>
+            <p> Escolha sua raça: </p>
+            <input type="radio" id="humana" name="raca" value="humana">
+            <label for="humana"> Humana </label>
+            <input type="radio" id="robo" name="raca" value="robo">
+            <label for="robo"> Robô </label>
+            <input type="radio" id="alienigena" name="raca" value="alienigena">
+            <label for="alienigena"> Alienígena </label>
+            <input type="radio" id="outro" name="raca" value="outro">
+            <label for="outro"> Outro </label>
+        </fieldset>
+
+        <fieldset>
+            <legend> Linguagens </legend>
+            <p> Linguagens a trabalhar: </p>
+            <input type="checkbox" id="ling1" name="ling1" value="html">
+            <label for="ling1"> Html </label>
+            <input type="checkbox" id="ling2" name="ling2" value="css">
+            <label for="ling2"> CSS </label>
+            <input type="checkbox" id="ling3" name="ling3" value="javascript">
+            <label for="ling3"> JavaScript </label><br>
+        </fieldset>
+
+        <fieldset>
+            <legend> Informações Complementares</legend>
+            <label for="email"> E-mail </label>
+            <input type="email" name="email" id="email"> <br>
+            <label for="escolaridade"> Escolaridade </label>
+            <select id="escolaridade">
+                <option selected disabled value=""> Selecione </option>
+                <option> Ensino Fundamental </option>
+                <option> Ensino Médio </option>
+                <option> Ensino Técnico </option>
+                <option> Ensino Superior</option>
+            </select> <br>
+            <label for="endereco"> Endereço: </label>
+            <textarea id="endereco" name="endereco"></textarea> <br>
+            <label for="dnascimento"> Data de Nascimento </label>
+            <input type="date" name="dnascimento" id="dnascimento"> <br>
+            <label for="ntelefone"> Número de Telefone </label>
+            <input type="number" name="ntelefone" id="ntelefone">
+        </fieldset>
+
+        <fieldset>
+            <legend> Usuário </legend>
+            <label for="usuario"> Nome de Usuário </label>
+            <input type="text" id="usuario" name="usuario"> <br>
+            <label for="senha"> Senha ( 8 caracteres no mínimo ) </label>
+            <input type="password" minlength="8" required id="senha" name="senha">
+        </fieldset>
+
+        <br><input type="submit" value="Enviar">
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 300px;
+  position: realtive;
+  margin: 0 auto;
+  background-color: #222;
+  font-family: Arial;
+}
+
+table {
+  width: 300px;
+  height: 300px;
+  background-color: #333;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+#scoreBoard {
+  margin-top: 50px;
+  width: 300px;
+  background-color: #444;
+  padding: 10px 0;
+  text-align: center;
+  color: #999;
+}
+
+#play {
+  margin-top: 20px;
+  color: #333;
+  background-color: #4ade1c;
+  text-decoration: none;
+  padding: 5px 10px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+#play:hover {
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+td {
+  border-radius: 40%;
+}
+
+td.snakeCell {
+  background: #2d63c4;
+}
+
+td.snakeHead {
+  background: #4789d9;
+}
+
+td.fruitCell {
+  background: #4ade1c;
+}
+
+.gameOver {
+  width: 200px;
+  margin-left: -100px;
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  display: block;
+  color: #d61717;
+  text-align: center;
+  padding: 10px 0;
+}
