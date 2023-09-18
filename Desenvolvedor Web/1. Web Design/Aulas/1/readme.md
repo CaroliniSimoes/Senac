@@ -14,3 +14,6 @@ https://www.gloomaps.com/
 https://writemaps.com/
 
 https://www.flowmapp.com/ ( bem legal mas é pago 〒▽〒 )
+
+Tamanhos de Telas no Figma
+https://www.figma.com/file/JCTLhXcJ7ntzptyl49vDrQ/Responsive-Layout-Grid-(Community)?type=design&node-id=0%3A1&mode=design&t=UAyfZfeC8YaC0PAe-1
