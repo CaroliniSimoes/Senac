@@ -4,7 +4,7 @@
 Links
 
 Notion
-https://www.notion.so/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4
+https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4
 
 Sitemaps
 https://octopus.do/
