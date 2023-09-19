@@ -15,7 +15,6 @@ Extensão Chrome <br>
 
 Figma <br>
 ●[Projeto Base](https://www.figma.com/file/Lk1j090fkZcutgecncrZDJ/Livraria-Drachen?type=whiteboard&node-id=0-1)<br>
-●[Tamanhos de Tela](https://www.figma.com/file/JCTLhXcJ7ntzptyl49vDrQ/Responsive-Layout-Grid-(Community)?type=design&node-id=0%3A1&mode=design&t=UAyfZfeC8YaC0PAe-1)
 
 </details>
 
