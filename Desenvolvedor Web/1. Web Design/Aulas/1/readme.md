@@ -17,9 +17,6 @@ Figma <br>
 ●[Projeto Base](https://www.figma.com/file/Lk1j090fkZcutgecncrZDJ/Livraria-Drachen?type=whiteboard&node-id=0-1)<br>
 ●[Tamanhos de Tela](https://www.figma.com/file/JCTLhXcJ7ntzptyl49vDrQ/Responsive-Layout-Grid-(Community)?type=design&node-id=0%3A1&mode=design&t=UAyfZfeC8YaC0PAe-1)
 
-WriteMaps <br>
-●[Arquitetura - SiteMaps](https://writemaps.com/)
-
 </details>
 
 <details>
@@ -29,6 +26,7 @@ WriteMaps <br>
 | :-----: | :--------: |
 | Briefing |   [Link1](https://profandreagarcia.files.wordpress.com/2015/05/briefingparadesenvolvimentodewebsites-131127064357-phpapp02.pdf) [Link2](https://neilpatel.com/br/blog/como-criar-um-briefing/)    |
 | Notion | [Link1](https://www.notion.so/pt-br/help/guides/notion-fit-tool-ecosystem) [Link2](https://www.oitchau.com.br/blog/como-usar-o-notion/#:~:text=O%20Notion%20%C3%A9%20uma%20ferramenta,lembretes%20em%20um%20s%C3%B3%20lugar) |
+| RoadMap | [Link1](https://miro.com/pt/agile/o-que-e-roadmap/) [Link2](https://fia.com.br/blog/roadmap/) |
 | Benchmarking | [Link1](https://fia.com.br/blog/benchmarking-o-que-e-objetivo-tipos-como-fazer-e-exemplos/#:~:text=Basicamente%2C%20o%20benchmarking%20consiste%20em,sobre%20sua%20carreira%2C%20por%20exemplo.) [Link2](https://resultadosdigitais.com.br/marketing/benchmarking/) |
 | MoodBoard | [Link1](https://rockcontent.com/br/blog/moodboard/) [Link2](https://www.canva.com/pt_br/aprenda/moodboard/) |
 | Prototipagem | [Link1](https://49educacao.com.br/mvp/prototipagem/) [Link2](https://medium.com/aela/quais-s%C3%A3o-as-melhores-ferramentas-de-prototipagem-de-interface-ui-ux-9b36155eef7a) |
@@ -48,12 +46,7 @@ Ferramentas de Elaboração de Wireframes <br>
 ●[Balsamiq](www.balsamiq.com) (Win/Mac e online)<br>
 ●[Gliffy](www.gliffy.com) (online)<br>
 
-Mais sitemaps <br>
-●[Octopus](https://octopus.do/)<br>
-●[GlooMaps](https://www.gloomaps.com/)<br>
-●[FlowMapp](https://www.flowmapp.com/) ( bem legal mas é pago 〒▽〒 )
-
-Sites de Refeências
+Sites de Referências
 ●[Dribble](https://dribbble.com/)<br>
 ●[Pinterest](https://br.pinterest.com/)<br>
 ●[Beehance](https://www.behance.net/onboarding/adobe)<br>
