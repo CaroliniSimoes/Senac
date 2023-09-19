@@ -1,5 +1,5 @@
 ### Web Design
-## Aula 01: Introdução ao Design de Interface de Usuário
+## Aula 02: Design de Interface de Usuário
 
 Para **rever** a aula de hoje, acesse os [slides](https://www.canva.com/design/DAFuvCfXXkk/tVYjxy0FdBd5r9cD3n9gpw/edit?utm_content=DAFuvCfXXkk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
 Para **praticar** os termos e conceitos, faça o [quiz](https://pages.github.com/). ** Ainda não criado **
