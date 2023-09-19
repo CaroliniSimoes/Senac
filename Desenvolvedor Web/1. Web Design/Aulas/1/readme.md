@@ -6,6 +6,9 @@ Links
 Notion
 https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4
 
+Figma
+https://www.figma.com/file/Lk1j090fkZcutgecncrZDJ/Livraria-Drachen?type=whiteboard&node-id=0-1
+
 Sitemaps
 https://octopus.do/
 
