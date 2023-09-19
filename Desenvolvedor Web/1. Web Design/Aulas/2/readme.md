@@ -1,40 +1,72 @@
-## Banco de Dados
-### Organização Curricular
+### Web Design
+## Aula 01: Introdução ao Design de Interface de Usuário
 
-Carga horária: 96 horas
+Para **rever** a aula de hoje, acesse os [slides](https://www.canva.com/design/DAFuvCfXXkk/tVYjxy0FdBd5r9cD3n9gpw/edit?utm_content=DAFuvCfXXkk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
+Para **praticar** os termos e conceitos, faça o [quiz](https://pages.github.com/). ** Ainda não criado **
 
-Indicadores
+<details>
+<summary>Links da Aula</summary>
 
-1.	Estrutura algoritmos, com base na lógica computacional e nos requisitos funcionais descritos no projeto.
-2.	Configura o ambiente de desenvolvimento conforme as funcionalidades e características do projeto.
-3.	Cria estruturas de código utilizando linguagem de programação para back-end, de acordo com os requisitos do projeto de software.
-4.	Desenvolve tratamento de requisições POST e GET do front-end, de acordo com a linguagem de programação back-end.
-5.	Implementa session e cookies da aplicação web, de acordo com a linguagem de programação back-end.
-6.	Integra banco de dados, de acordo com a aplicação web e requisitos do projeto de software.
+Notion <br>
+●[Projeto de Equipe](https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4)
 
-Elementos da Competência
+Extensão Chrome <br>
+●[GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?utm_source=ext_sidebar&hl=pt-BR)
 
-Conhecimentos
-•	Lógica de programação: conceito de algoritmos, pensamento computacional.
-•	Linguagem de programação para back-end e orientação a objetos: sintaxe, definições e funcionalidades.
-•	Manipulação de dados: variáveis, constantes, tipos de dados, operadores e expressões.
-•	Estrutura lógica: lógica booleana; condicional simples, composta e repetição.
-•	Estruturas de dados: vetores e matrizes, declaração, manipulação e aplicabilidade.
-•	Arquitetura de aplicações web: conceito de back-end e sua interação com front-end.
-•	Ambiente de desenvolvimento: conceito, interface, configuração e compilação.
-•	Biblioteca da linguagem: funções próprias da linguagem e suas aplicações.
-•	Memória da aplicação web: armazenamento de dados entre requisições, cookies e sessions; aplicabilidade.
-•	Segurança da informação: conceito, mecanismos, ameaças e políticas de segurança.
-•	Banco de dados: conceito, tipos e volume de dados; Structured Query Language (SQL) - Linguagem de Consulta Estruturada (operações de criação de tabelas e manipulação de dados).
-Habilidades
-•	Registrar e organizar as informações e códigos da aplicação web.
-•	Testar aplicação web.
-•	Utilizar termos técnicos nas rotinas de trabalho.
-•	Aplicar os comandos da linguagem SQL.
-Atitudes/Valores
-•	Sigilo no tratamento de dados e informações.
-•	Iniciativa na proposição de soluções de projetos.
-•	Proatividade no desenvolvimento das atividades profissionais.
-•	Colaboração no desenvolvimento do trabalho em equipe.
-•	Respeito aos direitos de propriedade intelectual.
-•	Atualização contínua no desenvolvimento das atividades profissionais.
+Figma <br>
+●[Projeto Base](https://www.figma.com/file/Lk1j090fkZcutgecncrZDJ/Livraria-Drachen?type=whiteboard&node-id=0-1)<br>
+●[Tamanhos de Tela](https://www.figma.com/file/JCTLhXcJ7ntzptyl49vDrQ/Responsive-Layout-Grid-(Community)?type=design&node-id=0%3A1&mode=design&t=UAyfZfeC8YaC0PAe-1)
+
+WriteMaps <br>
+●[Arquitetura - SiteMaps](https://writemaps.com/)
+
+</details>
+
+<details>
+<summary>Bibliografias e Referências</summary>
+
+| Assunto | Referência |
+| :-----: | :--------: |
+| Briefing |   [Link1](https://profandreagarcia.files.wordpress.com/2015/05/briefingparadesenvolvimentodewebsites-131127064357-phpapp02.pdf) [Link2](https://neilpatel.com/br/blog/como-criar-um-briefing/)    |
+| Notion | [Link1](https://www.notion.so/pt-br/help/guides/notion-fit-tool-ecosystem) [Link2](https://www.oitchau.com.br/blog/como-usar-o-notion/#:~:text=O%20Notion%20%C3%A9%20uma%20ferramenta,lembretes%20em%20um%20s%C3%B3%20lugar) |
+| RoadMap | [Link1](https://miro.com/pt/agile/o-que-e-roadmap/) [Link2](https://fia.com.br/blog/roadmap/) |
+| Benchmarking | [Link1](https://fia.com.br/blog/benchmarking-o-que-e-objetivo-tipos-como-fazer-e-exemplos/#:~:text=Basicamente%2C%20o%20benchmarking%20consiste%20em,sobre%20sua%20carreira%2C%20por%20exemplo.) [Link2](https://resultadosdigitais.com.br/marketing/benchmarking/) |
+| MoodBoard | [Link1](https://rockcontent.com/br/blog/moodboard/) [Link2](https://www.canva.com/pt_br/aprenda/moodboard/) |
+| Prototipagem | [Link1](https://49educacao.com.br/mvp/prototipagem/) [Link2](https://medium.com/aela/quais-s%C3%A3o-as-melhores-ferramentas-de-prototipagem-de-interface-ui-ux-9b36155eef7a) |
+
+</details>
+
+<details>
+<summary>Para saber mais</summary>
+
+
+Ferramentas de Elaboração de Wireframes <br>
+●[Axure](www.axure.com) (Win/Mac)<br>
+●[Just in Mind](www.justinmind.com) (Win/Mac)<br>
+●[OmniGraffle](www.omnigroup.com) (Mac)<br>
+●[SmartDrawn](www.smartdraw.com) (Win)<br>
+●[iRise](www.irise.com) (Win)<br>
+●[Balsamiq](www.balsamiq.com) (Win/Mac e online)<br>
+●[Gliffy](www.gliffy.com) (online)<br>
+
+Mais sitemaps <br>
+●[Octopus](https://octopus.do/)<br>
+●[GlooMaps](https://www.gloomaps.com/)<br>
+●[FlowMapp](https://www.flowmapp.com/) ( bem legal mas é pago 〒▽〒 )
+
+Sites de Referências
+●[Dribble](https://dribbble.com/)<br>
+●[Pinterest](https://br.pinterest.com/)<br>
+●[Beehance](https://www.behance.net/onboarding/adobe)<br>
+●[Mininal.Gallery](https://minimal.gallery/)
+
+| Assunto | Referência |
+| :-----: | :--------: |
+| Marca | [Link1](https://www.shopify.com/br/blog/como-construir-sua-propria-marca-do-zero) [Link2](https://www.locaweb.com.br/blog/temas/primeiros-passos/como-criar-uma-marca/) |
+| Identidade Visual | [Link1](https://br.hubspot.com/blog/marketing/identidade-visual#:~:text=O%20que%20%C3%A9%20identidade%20visual,personalidade%20e%20nicho%20de%20atua%C3%A7%C3%A3o.) [Link2](https://pontodesign.com.br/entenda-como-criar-uma-identidade-visual-adequada-para-sua-marca/) |
+| UX/UI Design | [Link1](https://aelaschool.com/pt/experienciadousuario/qual-a-diferenca-entre-ux-e-ui-design-entenda-de-uma-vez/) [Link2](https://www.hostinger.com.br/tutoriais/o-que-e-ux-design) |
+| Figma | [Link1](https://www.hostgator.com.br/blog/figma-descubra-o-passo-a-passo-para-usar-esta-ferramenta/) [Link2](https://awari.com.br/guia-figma/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Guia%20do%20Figma:%20Tutorial%20Completo%20para%20iniciantes) |
+
+</details>
+
+<sup> Aula desenvolvida pela prof. [Carol](https://github.com/CaroliniSimoes) </sup>
