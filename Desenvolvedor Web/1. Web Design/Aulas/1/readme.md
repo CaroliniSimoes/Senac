@@ -2,7 +2,7 @@
 ## Aula 01: Introdução ao Design de Interface de Usuário
 
 Para **rever** a aula de hoje, acesse os [slides](https://www.canva.com/design/DAFuvCfXXkk/tVYjxy0FdBd5r9cD3n9gpw/edit?utm_content=DAFuvCfXXkk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
-Para **praticar** os termos e conceitos, faça o [quiz](https://pages.github.com/). ** Ainda não criado **
+Para **praticar** os termos e conceitos, faça o [quiz](https://quizizz.com/admin/quiz/6509a489617e5b592eca3c0b?searchLocale=). ** Ainda não criado **
 
 <details>
 <summary>Links da Aula</summary>
