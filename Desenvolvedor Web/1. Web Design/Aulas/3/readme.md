@@ -1,40 +1,45 @@
-## Banco de Dados
-### Organização Curricular
+### Web Design
+## Aula 03: Design de Interface de Usuário - Alta-Fidelidade
 
-Carga horária: 96 horas
+Para **rever** a aula de hoje, acesse os [slides](https://www.canva.com/design/DAFu5Kzbsx0/WWB0w7shroasC5ttZxl1QQ/edit?utm_content=DAFu5Kzbsx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
+Para **praticar** os termos e conceitos, faça o [quiz](https://pages.github.com/). ** Ainda não criado **
 
-Indicadores
+<details>
+<summary>Links da Aula</summary>
 
-1.	Estrutura algoritmos, com base na lógica computacional e nos requisitos funcionais descritos no projeto.
-2.	Configura o ambiente de desenvolvimento conforme as funcionalidades e características do projeto.
-3.	Cria estruturas de código utilizando linguagem de programação para back-end, de acordo com os requisitos do projeto de software.
-4.	Desenvolve tratamento de requisições POST e GET do front-end, de acordo com a linguagem de programação back-end.
-5.	Implementa session e cookies da aplicação web, de acordo com a linguagem de programação back-end.
-6.	Integra banco de dados, de acordo com a aplicação web e requisitos do projeto de software.
+Notion <br>
+●[Projeto de Equipe](https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4)
 
-Elementos da Competência
+Padrões de User Interface <br>
+●[UI Patterns](https://ui-patterns.com/patterns)
 
-Conhecimentos
-•	Lógica de programação: conceito de algoritmos, pensamento computacional.
-•	Linguagem de programação para back-end e orientação a objetos: sintaxe, definições e funcionalidades.
-•	Manipulação de dados: variáveis, constantes, tipos de dados, operadores e expressões.
-•	Estrutura lógica: lógica booleana; condicional simples, composta e repetição.
-•	Estruturas de dados: vetores e matrizes, declaração, manipulação e aplicabilidade.
-•	Arquitetura de aplicações web: conceito de back-end e sua interação com front-end.
-•	Ambiente de desenvolvimento: conceito, interface, configuração e compilação.
-•	Biblioteca da linguagem: funções próprias da linguagem e suas aplicações.
-•	Memória da aplicação web: armazenamento de dados entre requisições, cookies e sessions; aplicabilidade.
-•	Segurança da informação: conceito, mecanismos, ameaças e políticas de segurança.
-•	Banco de dados: conceito, tipos e volume de dados; Structured Query Language (SQL) - Linguagem de Consulta Estruturada (operações de criação de tabelas e manipulação de dados).
-Habilidades
-•	Registrar e organizar as informações e códigos da aplicação web.
-•	Testar aplicação web.
-•	Utilizar termos técnicos nas rotinas de trabalho.
-•	Aplicar os comandos da linguagem SQL.
-Atitudes/Valores
-•	Sigilo no tratamento de dados e informações.
-•	Iniciativa na proposição de soluções de projetos.
-•	Proatividade no desenvolvimento das atividades profissionais.
-•	Colaboração no desenvolvimento do trabalho em equipe.
-•	Respeito aos direitos de propriedade intelectual.
-•	Atualização contínua no desenvolvimento das atividades profissionais.
+Figma <br>
+●[Projeto Base](https://www.figma.com/file/Lk1j090fkZcutgecncrZDJ/Livraria-Drachen?type=whiteboard&node-id=0-1)<br>
+●[Tamanhos de Tela](https://www.figma.com/file/JCTLhXcJ7ntzptyl49vDrQ/Responsive-Layout-Grid-(Community)?type=design&node-id=0%3A1&mode=design&t=UAyfZfeC8YaC0PAe-1)
+
+
+</details>
+
+<details>
+<summary>Bibliografias e Referências</summary>
+
+| Assunto | Referência |
+| :-----: | :--------: |
+| Guide Style | [Link1](https://aelaschool.com/pt/designvisual/style-guide-como-desenvolver-o-guia-de-estilo-da-sua-interface/) [Link2](https://medium.com/ui-lab-school/ui-style-guide-definindo-a-abordagem-visual-fb8c682b2c7e) |
+| Assunto | Link1 Link2 |
+
+</details>
+
+<details>
+<summary>Para saber mais</summary>
+
+
+| Assunto | Referência |
+| :-----: | :--------: |
+| Usabilidade Web | [Link1](https://aelaschool.com/pt/experienciadousuario/usabilidade-o-que-considerar-em-seu-website/) [Link2](https://neilpatel.com/br/blog/usabilidade-o-que-e/) |
+| UI Padrões e Inspirações | [Link1](https://www.uxlibrary.org/explore/ui-design/ui-patterns-and-inspiration) [Link2](https://www.interaction-design.org/literature/article/10-great-sites-for-ui-design-patterns) |
+| Assunto | Link1 Link2 |
+
+</details>
+
+<sup> Aula desenvolvida pela prof. [Carol](https://github.com/CaroliniSimoes) </sup>
