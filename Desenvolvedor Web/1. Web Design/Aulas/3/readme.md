@@ -1,5 +1,5 @@
 ### Web Design
-## Aula 03: Design de Interface de Usuário - Alta-Fidelidade
+## Aula 03: Design de Interface de Usuário - Guias de Estilo
 
 Para **rever** a aula de hoje, acesse os [slides](https://www.canva.com/design/DAFvAXAeGGw/AA5Rph0uH7LmAOj1JAuJAQ/edit?utm_content=DAFvAXAeGGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
 Para **praticar** os termos e conceitos, faça o [quiz](https://pages.github.com/). ** Ainda não criado **
