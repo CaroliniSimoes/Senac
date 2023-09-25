@@ -24,7 +24,6 @@ Escalas<br>
 Ícones<br>
 ●[Bootstrap Icons](https://icons.getbootstrap.com/)<br>
 ●[Lord Icon](https://lordicon.com/)<br>
-●
 
 Notion <br>
 ●[Projeto de Equipe](https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4)
@@ -79,7 +78,7 @@ Mais fontes <br>
 | :-----: | :--------: |
 | Usabilidade Web | [Link1](https://aelaschool.com/pt/experienciadousuario/usabilidade-o-que-considerar-em-seu-website/) [Link2](https://neilpatel.com/br/blog/usabilidade-o-que-e/) |
 | UI Padrões e Inspirações | [Link1](https://www.uxlibrary.org/explore/ui-design/ui-patterns-and-inspiration) [Link2](https://www.interaction-design.org/literature/article/10-great-sites-for-ui-design-patterns) |
-| Assunto | Link1 Link2 |
+| Figma | [Link1](https://awari.com.br/guia-figma/) [Link2](https://www.youtube.com/watch?v=0WgnkzkC-Ew&ab_channel=giotonello) |
 
 </details>
 
