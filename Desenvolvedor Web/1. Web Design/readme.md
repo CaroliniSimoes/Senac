@@ -50,32 +50,44 @@ Carga horária: 36 horas
 
 <h2>Referências</h2><br>
 <h3>Bibliográficas:</h3><br>
-SQL<br>
 
--[SQL All in One](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[SQL for Dummies](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+Biefing<br>
+- [Notion](https://www.notion.so/Briefing-do-projeto-c64c994a40354fc2b2452b1ca3046f39)<br>
 
-MySQL<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+Brainstorming, Mapas Mentais e Painéis Semânticos<br>
+-
 
-PHP<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
--[PHP, MySQL & JS](https://github.com/CaroliniSimoes/Senac-DesenvolvedorWeb/blob/main/Apostilas/5.%20MySQL/SQL_All-in-One_For_Dummies.pdf3B_filename3DUTF-8SQL_All-in-One_For_Dummies.pdf)<br>
+Análise de Mercado<br>
+-
+
+Experiência do Usuário<br>
+-
+
+Interface do Usuário<br>
+- [Design de Interfaces](https://github.com/CaroliniSimoes/Senac/blob/main/Desenvolvedor%20Web/1.%20Web%20Design/Apostilas/ebook-ui-design-v2.pdf)<br>
+
+
+Domínios<br>
+-
 
 <h3>Externas:</h3><br>
 
-MySQL<br>
--[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)<br>
--[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)<br>
--[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)<br>
--[GitHub Pages](https://pages.github.com/)<br>
+Biefing<br>
+- [Modelo de Briefing](https://www.duplod.com.br/modelo-de-briefing/)<br>
+- [Briefing para Desenvolvimento Web](https://desenvolvimentoparaweb.com/miscelanea/briefing-para-desenvolvimento-de-web-sites-consideracoes-dicas-e-modelos/)<br>
 
-PHP<br>
--[GitHub Pages](https://www.techtudo.com.br/noticias/2012/04/o-que-e-e-como-usar-o-mysql.ghtml)<br>
--[GitHub Pages](https://kinsta.com/pt/base-de-conhecimento/o-que-e-mysql/)<br>
--[GitHub Pages](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)<br>
--[GitHub Pages](https://pages.github.com/)<br>
+Brainstorming, Mapas Mentais e Painéis Semânticos<br>
+-
+
+Análise de Mercado<br>
+-
+
+Experiência do Usuário<br>
+-
+
+Interface do Usuário<br>
+- [Design de Interfaces](https://github.com/CaroliniSimoes/Senac/blob/main/Desenvolvedor%20Web/1.%20Web%20Design/Apostilas/ebook-ui-design-v2.pdf)<br>
+
+
+Domínios<br>
+-
