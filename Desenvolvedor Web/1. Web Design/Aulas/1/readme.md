@@ -8,7 +8,7 @@ Para **praticar** os termos e conceitos, faça o [quiz](https://quizizz.com/admi
 <summary>Links da Aula</summary>
 
 Notion <br>
-●[Projeto de Equipe](https://awesome-van-64d.notion.site/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4)
+●[Projeto de Equipe](https://www.notion.so/carolini/Livraria-Drachen-3a2f946befae4058b97f3b4d3ce0d322?pvs=4)
 
 Extensão Chrome <br>
 ●[GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?utm_source=ext_sidebar&hl=pt-BR)
